@@ -10,7 +10,7 @@ in a two-dimensional array with **row** and **column** as **int** types and **ma
 Write the following method in the class that returns the location of the largest element in the two-dimensional array:
 
 ```
-**public** **static** Location locateLargest(double[][] a)
+public static Location locateLargest(double[][] a)
 ``` 
 The return value is an instance of **Location**.
 Write a test program that prompts the user to enter a two-dimensional array and displays the location of the largest element in the array.
